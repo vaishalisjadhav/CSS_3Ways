@@ -1,0 +1,14 @@
+body{
+    background-color: crimson;
+}
+h1{
+    color: crimson;
+    background-color: wheat;
+}
+#virat{
+    height: 250px;
+    width: 250px;
+}
+.info{
+    font-size: 20px;
+}
